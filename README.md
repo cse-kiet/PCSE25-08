@@ -1,4 +1,4 @@
-An AI Enabled System for Road Sign Detection and Classification
+Speech recognition using audio analysis
 
 ## 👨‍💻 Team Members:
 | Name               | Roll Number        |Section  |
